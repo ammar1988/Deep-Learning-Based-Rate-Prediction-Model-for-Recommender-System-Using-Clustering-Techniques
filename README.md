@@ -10,5 +10,8 @@ The performance of the proposed method compared againstother state-of-the-art me
 # Source Paper
 http://dx.doi.org/10.22266/ijies2023.0430.38
 
+# Dataset
+https://grouplens.org/datasets/movielens/100k/
+
 # Github Reference
 https://github.com/RaptorMai/Deep-AutoEncoder-Recommendation
