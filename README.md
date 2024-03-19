@@ -8,3 +8,5 @@ The proposed method was trained and tested with MovieLens datasets where 80% of 
 The performance of the proposed method compared againstother state-of-the-art methods that use deep learning to build rate prediction models. It outperformed the other compared methods in terms of mean absolute error and root mean squared error.
 
 Source Paper: http://dx.doi.org/10.22266/ijies2023.0430.38
+
+Github Reference: https://github.com/RaptorMai/Deep-AutoEncoder-Recommendation
