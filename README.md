@@ -1,7 +1,7 @@
 # Deep-Learning-Based-Rate-Prediction-Model-for-Recommender-System-Using-Clustering-Techniques
 Deep Learning-Based Rate Prediction Model for Recommender System Using Clustering Techniques
 
-By Dr. Ammar Abdulsalam Al-Asadi
+By Dr. Ammar Abdulsalam Al-Asadi, Email: ammar.alasadi26@gmail.com
 
   This project proposed a novel cluster-based denoising autoencoder model (cluster-based DAE) for rate prediction recommender systems. Instead of building a single model, it builds K models by using k-means algorithm to divide the users into groups based on their preferences. Each group trains a DAE model to generate recommendations for its members. 
 The proposed method was trained and tested with MovieLens datasets where 80% of the data are used for training and 20% for testing. 
